@@ -2,7 +2,7 @@ const BLOG = {
   title: "Nomos Japan tour",
   author: "Quentin Maurice",
   email: "q.maurice@hotmail.fr",
-  link: "https://nobelium.vercel.app",
+  link: "https://japan-blog-notion.vercel.app/",
   description: "un tour du Japon",
   lang: "fr-FR", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   timezone: "Europe/Paris", // Your Notion posts' date will be interpreted as this timezone. See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
